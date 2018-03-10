@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8d34ed8-2fc3-499d-8f9e-bcee0eb59a1c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/css/style.default.css" afterPath="$PROJECT_DIR$/css/style.default.css" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +16,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-289">
-              <caret line="436" column="95" lean-forward="false" selection-start-line="436" selection-start-column="95" selection-end-line="436" selection-end-column="95" />
+            <state relative-caret-position="425">
+              <caret line="475" column="39" lean-forward="false" selection-start-line="475" selection-start-column="39" selection-end-line="475" selection-end-column="39" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -145,12 +143,12 @@
       <workItem from="1520592180673" duration="611000" />
       <workItem from="1520713106536" duration="489000" />
       <workItem from="1520713866968" duration="2488000" />
-      <workItem from="1520717502612" duration="2900000" />
+      <workItem from="1520717502612" duration="3193000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6488000" />
+    <option name="totallyTimeSpent" value="6781000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -268,8 +266,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-289">
-          <caret line="436" column="95" lean-forward="false" selection-start-line="436" selection-start-column="95" selection-end-line="436" selection-end-column="95" />
+        <state relative-caret-position="425">
+          <caret line="475" column="39" lean-forward="false" selection-start-line="475" selection-start-column="39" selection-end-line="475" selection-end-column="39" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
