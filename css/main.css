@@ -1,0 +1,63 @@
+p{
+    text-align: justify;
+}
+.top-bar{
+	display: none;
+}
+
+
+#story, #bespoke, #collection, #social, #video, #Contact{
+	padding-top:120px;
+}
+
+
+.heading>h2{
+	padding-bottom:50px;
+}
+
+.caret{
+	cursor:pointer;
+}
+
+.social-text{
+	line-height: 2;
+    font-size: 20px;
+}
+
+#contact{
+    background-color:#f1f1f1;
+    font-family: 'Roboto', sans-serif;
+}
+
+#contact .well{
+    margin-top:30px;
+    border-radius:0;
+}
+
+#contact .form-control{
+    border-radius: 0;
+    border:2px solid #1e1e1e;
+}
+
+#contact button{
+    border-radius:0;
+    border:2px solid #1e1e1e;
+}
+
+#contact .row{
+    margin-bottom:30px;
+}
+
+@media (max-width: 768px) { 
+    #contact iframe {
+        margin-bottom: 15px;
+    }
+    
+}
+
+#map {
+    height: 400px;
+    width: 100%;
+}
+
+
